@@ -1,0 +1,9 @@
+Below is the definition of the input parameters for the simulation of the M / M / 1 queue:
+
+
+$$$INPUT$$$
+
+The entry consists of three lines:
+I. In the first line there is a single integer N, which represents the number of clients arriving at the system.
+II. The second line consists of N real numbers, which represent the arrival times of N clients.
+III. The third line consists of N real numbers, which represent the service times of each of the N clients.
